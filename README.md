@@ -1,66 +1,39 @@
+<div align="center">
+
 # EFRAÍN DONADO
 
-**Full Stack Developer · AI Engineering · Backend · Cybersecurity**
+### Full Stack Developer · AI · Backend · Cybersecurity
 
-> Building intelligent systems with a focus on architecture, automation, and security.
+Building intelligent systems through software engineering, automation and secure architectures.
 
----
+<br>
 
-### / ABOUT
+<a href="TU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="TU_PORTFOLIO">
+  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
-I'm a developer interested in the engineering behind modern software — from **backend architecture and APIs** to **AI integration, automation, and secure systems**.
-
-I enjoy taking an idea, understanding the problem behind it, and turning it into software that is **efficient, maintainable, and built to evolve**.
-
----
-
-### / ENGINEERING
-
-| Area               | Focus                                            |
-| ------------------ | ------------------------------------------------ |
-| **Full Stack**     | Modern web applications & system architecture    |
-| **Backend**        | APIs, services, performance & scalability        |
-| **AI**             | Model training, data processing & AI integration |
-| **Security**       | Secure coding, APIs & vulnerability assessment   |
-| **Automation**     | Developer tools & process optimization           |
-| **Infrastructure** | Linux, Git, deployment & cloud environments      |
+</div>
 
 ---
 
-### / TECHNOLOGY
+## ⚡ Developer Profile
 
-`JavaScript` · `TypeScript` · `Python`
-`React` · `Node.js` · `REST APIs`
-`SQL` · `Git` · `Linux` · `Cloud`
-
----
-
-### / CURRENT DIRECTION
+> **Software is not just about making things work — it's about understanding, optimizing and engineering what comes next.**
 
 ```text
-AI ───────────────┐
-                  │
-Backend ──────────┼──→ Intelligent Systems
-                  │
-Security ─────────┤
-                  │
-Automation ───────┘
-```
-
-Currently exploring how **AI-driven applications, robust backend architectures, and security engineering** can come together to build better software.
-
----
-
-### / BUILDING
-
-Projects focused on:
-
-**AI-powered applications**
-**Backend & API systems**
-**Automation tools**
-**Data-driven solutions**
-**Security-oriented software**
-
----
-
-
+┌──────────────────────────────────────────────────────────────┐
+│  ROLE                                                        │
+│  Full Stack Developer                                        │
+│                                                              │
+│  CORE                                                        │
+│  Backend · AI Integration · Automation · Security            │
+│                                                              │
+│  ENGINEERING FOCUS                                           │
+│  APIs · Data Processing · System Architecture                │
+│                                                              │
+│  CURRENT MISSION                                             │
+│  Building intelligent and scalable software systems          │
+└──────────────────────────────────────────────────────────────┘
