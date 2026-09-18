@@ -4,13 +4,13 @@
 
 <br>
 
-<a href="https://github.com/">
+<a href="https://github.com/EfraDonado">
 <img src="https://img.shields.io/badge/STATUS-BUILDING-22c55e?style=for-the-badge&labelColor=020617"/>
 </a>
-<a href="https://github.com/">
+<a href="https://github.com/EfraDonado">
 <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SECURITY-8b5cf6?style=for-the-badge&labelColor=020617"/>
 </a>
-<a href="https://github.com/">
+<a href="https://github.com/EfraDonado">
 <img src="https://img.shields.io/badge/STACK-FULL%20STACK-06b6d4?style=for-the-badge&labelColor=020617"/>
 </a>
 
@@ -79,6 +79,7 @@ mindset:
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### `FRONTEND`
@@ -138,6 +139,7 @@ mindset:
 `Cloud Deployment`
 
 </td>
+
 </tr>
 </table>
 
@@ -199,29 +201,6 @@ mindset:
 
 ## `05 // ARCHITECTURE.MINDSET`
 
-```mermaid
-flowchart LR
-
-    USER["USER / CLIENT"]
-        --> UI["REACT APPLICATION"]
-
-    UI --> API["API GATEWAY"]
-
-    API --> AUTH["AUTH / SECURITY"]
-    API --> SERVICES["BACKEND SERVICES"]
-
-    SERVICES --> DB["DATA LAYER"]
-    SERVICES --> AI["AI / ML SERVICES"]
-    SERVICES --> AUTO["AUTOMATION"]
-
-    AI --> MODEL["MODEL / INFERENCE"]
-    AUTO --> CLOUD["CLOUD / INFRASTRUCTURE"]
-
-    AUTH --> LOG["MONITORING / LOGGING"]
-```
-
-<div align="center">
-
 ```text
                     ┌─────────────────────┐
                     │       CLIENT        │
@@ -250,8 +229,6 @@ flowchart LR
                                └────────────┘
 ```
 
-</div>
-
 ---
 
 ## `06 // CURRENT.RESEARCH`
@@ -260,6 +237,7 @@ flowchart LR
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### `AI × SOFTWARE`
@@ -295,6 +273,7 @@ Resilient Systems
 Applying security principles throughout the development lifecycle instead of treating security as an afterthought.
 
 </td>
+
 </tr>
 </table>
 
@@ -325,6 +304,7 @@ $ ./build-system.sh
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="33%" align="center">
@@ -380,52 +360,27 @@ Deployable architectures designed with scalability and operational reliability i
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-## `09 // GITHUB.ACTIVITY`
+## `09 // CONNECT`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=ffffff&text_color=94a3b8&icon_color=8b5cf6" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=020617&title_color=ffffff&text_color=94a3b8" height="165"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=020617" width="60%"/>
-
-</div>
-
----
-
-## `10 // CONTRIBUTION.GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=020617&color=94a3b8&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## `11 // CONNECT`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/EfraDonado">
+<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:efradonado.contact@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
