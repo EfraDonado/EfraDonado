@@ -63,10 +63,4 @@ Projects focused on:
 
 ---
 
-### / PRINCIPLE
 
-> **Don't just make it work. Understand how it works, make it better, and make it last.**
-
----
-
-`// Always learning. Always building.`
